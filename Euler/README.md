@@ -9,8 +9,12 @@
 [從第一筆測資開始一筆一行印出歐拉函數]
 ## Sample input
 2
+
 8
+
 19
+
 ## Sample output
 4
+
 18
