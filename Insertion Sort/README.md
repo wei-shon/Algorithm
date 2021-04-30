@@ -8,13 +8,21 @@
 每組測資請輸出”Optimal swapping takes S swaps.” S為swap次數
 ## Sample Input 
 3
+
 1 3 2
+
 4
+
 4 3 2 1
+
 2
+
 2 1
+
 0
 ## Sample Output 
 Optimal swapping takes 1 swaps.
+
 Optimal swapping takes 6 swaps.
+
 Optimal swapping takes 1 swaps.
