@@ -11,11 +11,16 @@
 ## Sample Input
 
 5
+
 3 4 2 1 5
+
 6
+
 2 3 2 3 1 7
+
 0
 
 ## Sample Output 
 1 2 3 4 5 
+
 1 2 2 3 3 7 
