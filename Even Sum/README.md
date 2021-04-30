@@ -8,9 +8,12 @@
 每組測試資料輸出一列，內容為 a 及 b 間所有偶數的和。
 ## Sample Input
 2
+
 9 14
+
 2 5
 ## Sample Output
 Case 1: 36
+
 Case 2: 6
 
