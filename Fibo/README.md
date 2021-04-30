@@ -16,11 +16,16 @@ F(n) = F(n-1)+ F(n-2)   (n≧3)
 
 ## SAMPLE INPUT
 3
+
 1
+
 10
+
 8
 
 ## SAMPLE OUTPUT
 1
+
 55
+
 21
