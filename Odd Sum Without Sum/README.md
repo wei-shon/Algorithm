@@ -10,9 +10,12 @@
 
 ## Sample input
 2
+
 3 16
+
 10 20
 
 ## Sample output
 24
+
 15
