@@ -20,6 +20,7 @@
 
 ## Sample input:
 10
+
 2 3 28 4 7 9 13 6 27 65536
 
 ## Sample output:
