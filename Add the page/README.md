@@ -12,9 +12,12 @@
 
 ## Sample input
 2
+
 3
+
 9000
 
 ## Sample output
 3 3
+
 134 45
