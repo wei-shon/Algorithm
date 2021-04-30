@@ -10,18 +10,31 @@
 
 ## Sample Iutput
 7
+
 1
+
 3
+
 4
+
 60
+
 70
+
 50
+
 2
 ## Sample Output
 1
+
 2
+
 3
+
 3
+
 4
+
 27
+
 4
