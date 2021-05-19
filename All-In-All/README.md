@@ -8,13 +8,22 @@
 ## Sample Input
 5
 abc abc
+
 sequence subsequence
+
 person compression
+
 VERDI vivaVittorioEmanueleReDiItalia
+
 caseDoesMatter CaseDoesMatter
+
 ## Sample Output
 Yes
+
 Yes
+
 No
+
 Yes
+
 No
