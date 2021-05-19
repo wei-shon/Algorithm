@@ -7,6 +7,7 @@
 對每一列輸入，請輸出是否s是t的子字串。
 ## Sample Input
 5
+
 abc abc
 
 sequence subsequence
