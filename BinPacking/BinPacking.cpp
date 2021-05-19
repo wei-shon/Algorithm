@@ -13,7 +13,6 @@ int main(){
         cin>>size;
         Things.push_back(size);
     }
-    //sort(Things.begin(),Things.end(),greater<float>());
     int answer=Box(Num ,Things);
     cout<<answer<<endl;
 }
