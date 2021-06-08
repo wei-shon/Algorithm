@@ -16,10 +16,13 @@
 ## Sample Input
 
    2
+   
    5181 2710 9900 0012
+   
    5181 2710 9900 0017
 ## Sample Output
 
    Invalid
+   
    Valid
 
