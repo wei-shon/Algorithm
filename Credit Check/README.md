@@ -14,10 +14,12 @@
 ## Output
 若信用卡號是檢查合格的，請輸出"Valid"，否則請輸出"Invalid"。
 ## Sample Input
+
    2
    5181 2710 9900 0012
    5181 2710 9900 0017
 ## Sample Output
+
    Invalid
    Valid
 
