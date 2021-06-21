@@ -9,5 +9,7 @@
 資料集說明: 
 
 1.資料集檔案 handwrite_detect.zip 為中文手寫數字資料集，包含了訓練資料集(training dataset)與測試資料集(test dataset)
+
 2.訓練資料共有2450筆
+
 3.測試資料共有1700筆
